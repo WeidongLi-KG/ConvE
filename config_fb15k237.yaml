@@ -1,0 +1,16 @@
+embedding_dim: 200
+filter: true
+batch_size: 1000
+input_dropout: 0.2
+dropout: 0.3
+feature_map_dropout: 0.2
+use_bias: true
+task_dir: data/FB15k-237
+dataset: FB15k-237
+cuda: true
+n_batch: 100
+model_name: ConvE
+label_smoothing_epsilon: 0.1
+
+#input_drop 0.2 hidden_drop 0.3 feat_drop 0.2 \
+#                                      lr 0.003 process True

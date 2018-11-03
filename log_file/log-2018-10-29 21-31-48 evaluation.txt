@@ -1,0 +1,42 @@
+2018-10-29 21:35:02 (INFO) evaluation line:13 
+2018-10-29 21:35:02 (INFO) evaluation line:14 --------------------------------------------------
+2018-10-29 21:35:02 (INFO) evaluation line:15 dev_evaluation
+2018-10-29 21:35:02 (INFO) evaluation line:16 --------------------------------------------------
+2018-10-29 21:35:02 (INFO) evaluation line:17 
+2018-10-29 21:35:51 (INFO) evaluation line:96 Hits left @10: 0.127972626176219
+2018-10-29 21:35:51 (INFO) evaluation line:97 Hits right @10: 0.008212147134302824
+2018-10-29 21:35:51 (INFO) evaluation line:98 Hits @10: 0.0680923866552609
+2018-10-29 21:35:51 (INFO) evaluation line:99 Mean rank left: 3632.8575990875393
+2018-10-29 21:35:51 (INFO) evaluation line:100 Mean rank right: 4486.665297975477
+2018-10-29 21:35:51 (INFO) evaluation line:101 Mean rank: 4059.7614485315084
+2018-10-29 21:35:51 (INFO) evaluation line:102 Mean reciprocal rank left: 0.05298921052389867
+2018-10-29 21:35:51 (INFO) evaluation line:103 Mean reciprocal rank right: 0.007526879638374235
+2018-10-29 21:35:51 (INFO) evaluation line:104 Mean reciprocal rank: 0.03025804508113645
+2018-10-29 21:38:55 (INFO) evaluation line:13 
+2018-10-29 21:38:55 (INFO) evaluation line:14 --------------------------------------------------
+2018-10-29 21:38:55 (INFO) evaluation line:15 dev_evaluation
+2018-10-29 21:38:55 (INFO) evaluation line:16 --------------------------------------------------
+2018-10-29 21:38:55 (INFO) evaluation line:17 
+2018-10-29 21:39:44 (INFO) evaluation line:96 Hits left @10: 0.13692614770459083
+2018-10-29 21:39:44 (INFO) evaluation line:97 Hits right @10: 0.00992301112061591
+2018-10-29 21:39:44 (INFO) evaluation line:98 Hits @10: 0.07342457941260336
+2018-10-29 21:39:44 (INFO) evaluation line:99 Mean rank left: 4296.486512688908
+2018-10-29 21:39:44 (INFO) evaluation line:100 Mean rank right: 4975.031650983747
+2018-10-29 21:39:44 (INFO) evaluation line:101 Mean rank: 4635.759081836327
+2018-10-29 21:39:44 (INFO) evaluation line:102 Mean reciprocal rank left: 0.05189374770108421
+2018-10-29 21:39:44 (INFO) evaluation line:103 Mean reciprocal rank right: 0.008242524734095279
+2018-10-29 21:39:44 (INFO) evaluation line:104 Mean reciprocal rank: 0.030068136217589744
+2018-10-29 21:42:48 (INFO) evaluation line:13 
+2018-10-29 21:42:48 (INFO) evaluation line:14 --------------------------------------------------
+2018-10-29 21:42:48 (INFO) evaluation line:15 dev_evaluation
+2018-10-29 21:42:48 (INFO) evaluation line:16 --------------------------------------------------
+2018-10-29 21:42:48 (INFO) evaluation line:17 
+2018-10-29 21:43:37 (INFO) evaluation line:96 Hits left @10: 0.14930139720558883
+2018-10-29 21:43:37 (INFO) evaluation line:97 Hits right @10: 0.012660393498716851
+2018-10-29 21:43:37 (INFO) evaluation line:98 Hits @10: 0.08098089535215283
+2018-10-29 21:43:37 (INFO) evaluation line:99 Mean rank left: 4232.096720844026
+2018-10-29 21:43:37 (INFO) evaluation line:100 Mean rank right: 4988.8849158825205
+2018-10-29 21:43:37 (INFO) evaluation line:101 Mean rank: 4610.490818363273
+2018-10-29 21:43:37 (INFO) evaluation line:102 Mean reciprocal rank left: 0.05859687116530284
+2018-10-29 21:43:37 (INFO) evaluation line:103 Mean reciprocal rank right: 0.008710685678338763
+2018-10-29 21:43:37 (INFO) evaluation line:104 Mean reciprocal rank: 0.0336537784218208
