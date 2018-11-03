@@ -3,7 +3,8 @@ Convolutional 2D Knowledge Graph Embeddings resources.
 
 Paper: [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476)
 > origin repo: https://github.com/TimDettmers/ConvE
-
+# Dependency
+- PyTorch v0.4.1
 
 # Running a model
 Just type `python main.py`  
