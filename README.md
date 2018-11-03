@@ -7,6 +7,5 @@ Paper: [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.
 
 # Running a model
 Just type `python main.py`  
-The arguments will run with defaults. 
-
+The arguments will run with defaults.  
 The file in directory log_file is the result.  
